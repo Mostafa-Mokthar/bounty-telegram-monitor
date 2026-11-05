@@ -181961,6 +181961,11 @@
             "identifier": "agents.hostinger.com",
             "type": "url"
           },
+          "[\"url\", \"ai-builder.hostinger.com\"]": {
+            "bounty": true,
+            "identifier": "ai-builder.hostinger.com",
+            "type": "url"
+          },
           "[\"url\", \"builder.hostinger.com\"]": {
             "bounty": true,
             "identifier": "builder.hostinger.com",
@@ -203276,6 +203281,11 @@
           "[\"url\", \"cache.judge.me\"]": {
             "bounty": true,
             "identifier": "cache.judge.me",
+            "type": "url"
+          },
+          "[\"url\", \"emails.judge.me\"]": {
+            "bounty": true,
+            "identifier": "emails.judge.me",
             "type": "url"
           },
           "[\"url\", \"https://judge.me/reviews\"]": {
@@ -225915,6 +225925,11 @@
             "identifier": "app.taxjar.com",
             "type": "url"
           },
+          "[\"url\", \"files.stripe.com\"]": {
+            "bounty": true,
+            "identifier": "files.stripe.com",
+            "type": "url"
+          },
           "[\"url\", \"js.stripe.com\"]": {
             "bounty": true,
             "identifier": "js.stripe.com",
@@ -225923,6 +225938,16 @@
           "[\"url\", \"mcp.stripe.com\"]": {
             "bounty": true,
             "identifier": "mcp.stripe.com",
+            "type": "url"
+          },
+          "[\"url\", \"stripe.com\"]": {
+            "bounty": true,
+            "identifier": "stripe.com",
+            "type": "url"
+          },
+          "[\"url\", \"stripe.dev\"]": {
+            "bounty": true,
+            "identifier": "stripe.dev",
             "type": "url"
           },
           "[\"url\", \"www.stripe.partners\"]": {
