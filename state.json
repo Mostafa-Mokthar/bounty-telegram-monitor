@@ -194007,6 +194007,11 @@
             "identifier": "ai-platform.deere.com",
             "type": "url"
           },
+          "[\"url\", \"ai-playbook-kit.mfg-material-management-devl-vpn.us.e11.c01.johndeerecloud.com\"]": {
+            "bounty": false,
+            "identifier": "ai-playbook-kit.mfg-material-management-devl-vpn.us.e11.c01.johndeerecloud.com",
+            "type": "url"
+          },
           "[\"url\", \"ai-quest.deere.com\"]": {
             "bounty": false,
             "identifier": "ai-quest.deere.com",
@@ -196115,6 +196120,11 @@
           "[\"url\", \"equipment.deere.com\"]": {
             "bounty": false,
             "identifier": "equipment.deere.com",
+            "type": "url"
+          },
+          "[\"url\", \"es-develop-api.channel-expertservices-prod-vpn.us.e00.c01.johndeerecloud.com\"]": {
+            "bounty": false,
+            "identifier": "es-develop-api.channel-expertservices-prod-vpn.us.e00.c01.johndeerecloud.com",
             "type": "url"
           },
           "[\"url\", \"es.smartapply.com\"]": {
