@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-04",
+  "last_checked_date": "2026-11-05",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -221881,6 +221881,11 @@
           "[\"url\", \"access.remitly.com\"]": {
             "bounty": true,
             "identifier": "access.remitly.com",
+            "type": "url"
+          },
+          "[\"url\", \"api.remitly.com\"]": {
+            "bounty": true,
+            "identifier": "api.remitly.com",
             "type": "url"
           },
           "[\"url\", \"api.remitly.io\"]": {
