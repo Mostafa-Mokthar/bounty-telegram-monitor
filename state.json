@@ -8595,6 +8595,11 @@
             "identifier": "https://business-staging.getmoneytree.com/",
             "type": "website"
           },
+          "[\"website\", \"https://fitbit-lottery.getmoneytree.com/\"]": {
+            "bounty": null,
+            "identifier": "https://fitbit-lottery.getmoneytree.com/",
+            "type": "website"
+          },
           "[\"website\", \"https://myaccount-staging.getmoneytree.com\"]": {
             "bounty": null,
             "identifier": "https://myaccount-staging.getmoneytree.com",
@@ -26640,6 +26645,11 @@
       },
       "https://hackerone.com/anduril_industries": {
         "assets": {
+          "[\"url\", \"anduril.com\"]": {
+            "bounty": true,
+            "identifier": "anduril.com",
+            "type": "url"
+          },
           "[\"wildcard\", \"*.anduril.au\"]": {
             "bounty": true,
             "identifier": "*.anduril.au",
@@ -32969,6 +32979,36 @@
           "[\"url\", \"http://www.byreal.io\"]": {
             "bounty": true,
             "identifier": "http://www.byreal.io",
+            "type": "url"
+          },
+          "[\"url\", \"https://testnet.bybit.com/en/earn/rwa/\"]": {
+            "bounty": true,
+            "identifier": "https://testnet.bybit.com/en/earn/rwa/",
+            "type": "url"
+          },
+          "[\"url\", \"https://testnet.bybit.com/en/trade/odds/\"]": {
+            "bounty": true,
+            "identifier": "https://testnet.bybit.com/en/trade/odds/",
+            "type": "url"
+          },
+          "[\"url\", \"https://testnet.bybit.com/en/trade/option/usdt/spcx\"]": {
+            "bounty": true,
+            "identifier": "https://testnet.bybit.com/en/trade/option/usdt/spcx",
+            "type": "url"
+          },
+          "[\"url\", \"https://testnet.bybit.com/en/trade/usdt/btcusdt\"]": {
+            "bounty": true,
+            "identifier": "https://testnet.bybit.com/en/trade/usdt/btcusdt",
+            "type": "url"
+          },
+          "[\"url\", \"https://www.bybit.com/en/ai-bot/home\"]": {
+            "bounty": true,
+            "identifier": "https://www.bybit.com/en/ai-bot/home",
+            "type": "url"
+          },
+          "[\"url\", \"https://www.bybit.com/en/stocks\"]": {
+            "bounty": true,
+            "identifier": "https://www.bybit.com/en/stocks",
             "type": "url"
           },
           "[\"wildcard\", \"*.bybit.com\"]": {
@@ -181311,14 +181351,29 @@
             "identifier": "*.notyourmothers.com",
             "type": "wildcard"
           },
+          "[\"wildcard\", \"*.nymbrand.{com,co.uk,uk,}\"]": {
+            "bounty": false,
+            "identifier": "*.nymbrand.{com,co.uk,uk,}",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.nymbrands.com,uk,co.uk\"]": {
             "bounty": false,
             "identifier": "*.nymbrands.com,uk,co.uk",
             "type": "wildcard"
           },
+          "[\"wildcard\", \"*.nymbrands.{com,co.uk,uk,}\"]": {
+            "bounty": false,
+            "identifier": "*.nymbrands.{com,co.uk,uk,}",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.nymhair.co.uk,.com,.uk\"]": {
             "bounty": false,
             "identifier": "*.nymhair.co.uk,.com,.uk",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.nymhair.{com,co.uk,uk,}\"]": {
+            "bounty": false,
+            "identifier": "*.nymhair.{com,co.uk,uk,}",
             "type": "wildcard"
           },
           "[\"wildcard\", \"*.olaplex-dev.com\"]": {
