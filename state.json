@@ -31575,6 +31575,11 @@
             "identifier": "https://github.com/aws/aws-sdk",
             "type": "source_code"
           },
+          "[\"source_code\", \"https://github.com/aws/s2n-quic\"]": {
+            "bounty": false,
+            "identifier": "https://github.com/aws/s2n-quic",
+            "type": "source_code"
+          },
           "[\"source_code\", \"https://github.com/aws/s2n-tls\"]": {
             "bounty": false,
             "identifier": "https://github.com/aws/s2n-tls",
@@ -120107,6 +120112,11 @@
             "identifier": "com.fanduel.sportsbook",
             "type": "google_play_app_id"
           },
+          "[\"other\", \"FanDuel Customer Support Sites\"]": {
+            "bounty": true,
+            "identifier": "FanDuel Customer Support Sites",
+            "type": "other"
+          },
           "[\"url\", \"4njbets.com\"]": {
             "bounty": true,
             "identifier": "4njbets.com",
@@ -206064,6 +206074,37 @@
         },
         "name": "Magic Eden",
         "url": "https://hackerone.com/magic-eden"
+      },
+      "https://hackerone.com/mariadb": {
+        "assets": {
+          "[\"source_code\", \"MariaDB Server & Connectors  - Denial of Service\"]": {
+            "bounty": false,
+            "identifier": "MariaDB Server & Connectors  - Denial of Service",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"MariaDB Server & Connectors - Access control bypass\"]": {
+            "bounty": false,
+            "identifier": "MariaDB Server & Connectors - Access control bypass",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"MariaDB Server & Connectors - Data corruption, exfiltration, disclosure\"]": {
+            "bounty": false,
+            "identifier": "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"MariaDB Server & Connectors - Remote Code Execution\"]": {
+            "bounty": false,
+            "identifier": "MariaDB Server & Connectors - Remote Code Execution",
+            "type": "source_code"
+          },
+          "[\"url\", \"mariadb.org\"]": {
+            "bounty": false,
+            "identifier": "mariadb.org",
+            "type": "url"
+          }
+        },
+        "name": "MariaDB",
+        "url": "https://hackerone.com/mariadb"
       },
       "https://hackerone.com/marriott": {
         "assets": {
