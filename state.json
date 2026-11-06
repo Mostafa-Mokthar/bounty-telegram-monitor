@@ -32605,6 +32605,11 @@
             "bounty": true,
             "identifier": "https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/",
             "type": "url"
+          },
+          "[\"url\", \"https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp\"]": {
+            "bounty": true,
+            "identifier": "https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp",
+            "type": "url"
           }
         },
         "name": "Braze, Inc.",
@@ -112309,6 +112314,11 @@
           "[\"other\", \"EpicOnlineServices\"]": {
             "bounty": true,
             "identifier": "EpicOnlineServices",
+            "type": "other"
+          },
+          "[\"other\", \"Zenserver\"]": {
+            "bounty": true,
+            "identifier": "Zenserver",
             "type": "other"
           },
           "[\"other\", \"v1. kidswebservices.com\"]": {
@@ -207805,6 +207815,11 @@
             "bounty": false,
             "identifier": "86.188.129.9/29",
             "type": "cidr"
+          },
+          "[\"ip_address\", \"166.20.208.14\"]": {
+            "bounty": false,
+            "identifier": "166.20.208.14",
+            "type": "ip_address"
           },
           "[\"ip_address\", \"20.49.171.93\"]": {
             "bounty": false,
