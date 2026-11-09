@@ -53757,6 +53757,11 @@
             "identifier": "mapsuat.cbre.com",
             "type": "url"
           },
+          "[\"url\", \"market-survey.cbre.com\"]": {
+            "bounty": false,
+            "identifier": "market-survey.cbre.com",
+            "type": "url"
+          },
           "[\"url\", \"market.gallileo-frankfurt.com\"]": {
             "bounty": false,
             "identifier": "market.gallileo-frankfurt.com",
@@ -63945,6 +63950,11 @@
           "[\"url\", \"temp.jjwws.com\"]": {
             "bounty": false,
             "identifier": "temp.jjwws.com",
+            "type": "url"
+          },
+          "[\"url\", \"tenant-tour.cbre.com\"]": {
+            "bounty": false,
+            "identifier": "tenant-tour.cbre.com",
             "type": "url"
           },
           "[\"url\", \"test-agile.cbre.com\"]": {
@@ -178787,6 +178797,11 @@
         "name": "FormAssembly",
         "url": "https://hackerone.com/formassembly"
       },
+      "https://hackerone.com/fresenius": {
+        "assets": {},
+        "name": "Fresenius",
+        "url": "https://hackerone.com/fresenius"
+      },
       "https://hackerone.com/freshworks": {
         "assets": {
           "[\"apple_store_app_id\", \"Freshcaller-iOS-App\"]": {
@@ -196352,6 +196367,11 @@
             "identifier": "explore.deere.com",
             "type": "url"
           },
+          "[\"url\", \"extraparts.deere.com\"]": {
+            "bounty": false,
+            "identifier": "extraparts.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"fax.harvestprofit.com\"]": {
             "bounty": false,
             "identifier": "fax.harvestprofit.com",
@@ -205311,6 +205331,17 @@
         "name": "LinkedIn",
         "url": "https://hackerone.com/linkedin"
       },
+      "https://hackerone.com/litellm": {
+        "assets": {
+          "[\"source_code\", \"https://github.com/BerriAI/litellm\"]": {
+            "bounty": false,
+            "identifier": "https://github.com/BerriAI/litellm",
+            "type": "source_code"
+          }
+        },
+        "name": "LiteLLM (VDP)",
+        "url": "https://hackerone.com/litellm"
+      },
       "https://hackerone.com/live_nation": {
         "assets": {
           "[\"apple_store_app_id\", \"https://apps.apple.com/no/app/royal-arena/id1181913144\"]": {
@@ -206432,6 +206463,11 @@
           "[\"url\", \"marsbettertogetherfund.org\"]": {
             "bounty": false,
             "identifier": "marsbettertogetherfund.org",
+            "type": "url"
+          },
+          "[\"url\", \"marschina.com\"]": {
+            "bounty": false,
+            "identifier": "marschina.com",
             "type": "url"
           },
           "[\"url\", \"practice.securevetsource.com\"]": {
@@ -217159,6 +217195,77 @@
         },
         "name": "OANDA",
         "url": "https://hackerone.com/oanda"
+      },
+      "https://hackerone.com/oasisprotocol": {
+        "assets": {
+          "[\"source_code\", \"github.com/oasisprotocol/explorer\"]": {
+            "bounty": true,
+            "identifier": "github.com/oasisprotocol/explorer",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/oasisprotocol/curve25519-voi\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/oasisprotocol/curve25519-voi",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/oasisprotocol/deoxysii\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/oasisprotocol/deoxysii",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/oasisprotocol/deoxysii-rust\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/oasisprotocol/deoxysii-rust",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/oasisprotocol/oasis-core\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/oasisprotocol/oasis-core",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/oasisprotocol/oasis-sdk\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/oasisprotocol/oasis-sdk",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/oasisprotocol/oasis-wallet-web\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/oasisprotocol/oasis-wallet-web",
+            "type": "source_code"
+          },
+          "[\"url\", \"http://emerald.oasis.dev\"]": {
+            "bounty": true,
+            "identifier": "http://emerald.oasis.dev",
+            "type": "url"
+          },
+          "[\"url\", \"http://grpc.oasis.dev\"]": {
+            "bounty": true,
+            "identifier": "http://grpc.oasis.dev",
+            "type": "url"
+          },
+          "[\"url\", \"http://rosetta.oasis.dev/api/mainnet\"]": {
+            "bounty": true,
+            "identifier": "http://rosetta.oasis.dev/api/mainnet",
+            "type": "url"
+          },
+          "[\"url\", \"http://sapphire.oasis.io\"]": {
+            "bounty": true,
+            "identifier": "http://sapphire.oasis.io",
+            "type": "url"
+          },
+          "[\"url\", \"status.oasis.io\"]": {
+            "bounty": true,
+            "identifier": "status.oasis.io",
+            "type": "url"
+          },
+          "[\"url\", \"wallet.oasis.io\"]": {
+            "bounty": true,
+            "identifier": "wallet.oasis.io",
+            "type": "url"
+          }
+        },
+        "name": "Oasis Protocol Foundation",
+        "url": "https://hackerone.com/oasisprotocol"
       },
       "https://hackerone.com/octopus-energy": {
         "assets": {
