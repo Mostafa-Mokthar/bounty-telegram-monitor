@@ -123101,6 +123101,37 @@
         "name": "Files.com",
         "url": "https://hackerone.com/files"
       },
+      "https://hackerone.com/filezilla": {
+        "assets": {
+          "[\"source_code\", \"https://filezilla-project.org/download.php?type=server&show_all=1\"]": {
+            "bounty": true,
+            "identifier": "https://filezilla-project.org/download.php?type=server&show_all=1",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://fzssh.filezilla-project.org/download.php\"]": {
+            "bounty": true,
+            "identifier": "https://fzssh.filezilla-project.org/download.php",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://svn.filezilla-project.org/svn/FileZilla3/trunk/\"]": {
+            "bounty": true,
+            "identifier": "https://svn.filezilla-project.org/svn/FileZilla3/trunk/",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://svn.filezilla-project.org/svn/libfilezilla/trunk\"]": {
+            "bounty": true,
+            "identifier": "https://svn.filezilla-project.org/svn/libfilezilla/trunk",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://svn.filezilla-project.org/svn/libfilezilla/trunk/\"]": {
+            "bounty": true,
+            "identifier": "https://svn.filezilla-project.org/svn/libfilezilla/trunk/",
+            "type": "source_code"
+          }
+        },
+        "name": "FileZilla",
+        "url": "https://hackerone.com/filezilla"
+      },
       "https://hackerone.com/finnair_vdp": {
         "assets": {
           "[\"api\", \"https://api-dev.finnair.com/d/*\"]": {
