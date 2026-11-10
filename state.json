@@ -24840,6 +24840,11 @@
             "identifier": "Interflex Software SP-EXPERT",
             "type": "other"
           },
+          "[\"other\", \"LCN 9500IQ / 2800IQ Senior Swing Series Operators\"]": {
+            "bounty": false,
+            "identifier": "LCN 9500IQ / 2800IQ Senior Swing Series Operators",
+            "type": "other"
+          },
           "[\"other\", \"Smart Software 4\"]": {
             "bounty": false,
             "identifier": "Smart Software 4",
@@ -224409,6 +224414,11 @@
             "identifier": "Authentication & ATO",
             "type": "other"
           },
+          "[\"other\", \"Shop Minis\"]": {
+            "bounty": true,
+            "identifier": "Shop Minis",
+            "type": "other"
+          },
           "[\"other\", \"Shopify Developed Apps\"]": {
             "bounty": true,
             "identifier": "Shopify Developed Apps",
@@ -224427,6 +224437,11 @@
           "[\"other\", \"Shopify Third Party Store\"]": {
             "bounty": false,
             "identifier": "Shopify Third Party Store",
+            "type": "other"
+          },
+          "[\"other\", \"Sidekick\"]": {
+            "bounty": true,
+            "identifier": "Sidekick",
             "type": "other"
           },
           "[\"source_code\", \"https://github.com/Shopify/*\"]": {
@@ -224449,6 +224464,11 @@
             "identifier": "arrive-server.shopifycloud.com",
             "type": "url"
           },
+          "[\"url\", \"help.shop.app\"]": {
+            "bounty": true,
+            "identifier": "help.shop.app",
+            "type": "url"
+          },
           "[\"url\", \"linkpop.com\"]": {
             "bounty": true,
             "identifier": "linkpop.com",
@@ -224462,6 +224482,11 @@
           "[\"url\", \"shop.app\"]": {
             "bounty": true,
             "identifier": "shop.app",
+            "type": "url"
+          },
+          "[\"url\", \"shop.com\"]": {
+            "bounty": true,
+            "identifier": "shop.com",
             "type": "url"
           },
           "[\"url\", \"shopify.plus\"]": {
@@ -224507,6 +224532,11 @@
           "[\"wildcard\", \"*.shopifykloud.com\"]": {
             "bounty": true,
             "identifier": "*.shopifykloud.com",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.shopifysvc.com\"]": {
+            "bounty": true,
+            "identifier": "*.shopifysvc.com",
             "type": "wildcard"
           }
         },
