@@ -2308,6 +2308,11 @@
             "identifier": "https://blog.bitpanda.com/en",
             "type": "website"
           },
+          "[\"website\", \"https://login.bitpanda.com\"]": {
+            "bounty": null,
+            "identifier": "https://login.bitpanda.com",
+            "type": "website"
+          },
           "[\"website\", \"https://web.bitpanda.com\"]": {
             "bounty": null,
             "identifier": "https://web.bitpanda.com",
@@ -232003,6 +232008,11 @@
       },
       "https://hackerone.com/walt_io": {
         "assets": {
+          "[\"google_play_app_id\", \"io.walt.app\"]": {
+            "bounty": true,
+            "identifier": "io.walt.app",
+            "type": "google_play_app_id"
+          },
           "[\"other\", \"Crypto infrastructure for cold and hot wallets\"]": {
             "bounty": true,
             "identifier": "Crypto infrastructure for cold and hot wallets",
