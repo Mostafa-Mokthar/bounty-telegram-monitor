@@ -182092,6 +182092,11 @@
             "identifier": "*.hilton.com",
             "type": "wildcard"
           },
+          "[\"wildcard\", \"*.hilton.com.cn\"]": {
+            "bounty": true,
+            "identifier": "*.hilton.com.cn",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.hilton.io\"]": {
             "bounty": true,
             "identifier": "*.hilton.io",
@@ -229703,9 +229708,19 @@
             "identifier": "blog.unico.io",
             "type": "url"
           },
+          "[\"url\", \"dashboard.unico.app\"]": {
+            "bounty": true,
+            "identifier": "dashboard.unico.app",
+            "type": "url"
+          },
           "[\"url\", \"devcenter.unico.io\"]": {
             "bounty": true,
             "identifier": "devcenter.unico.io",
+            "type": "url"
+          },
+          "[\"url\", \"developer.unico.io\"]": {
+            "bounty": true,
+            "identifier": "developer.unico.io",
             "type": "url"
           },
           "[\"url\", \"https://sdk-h1.unico.io/createprocess\"]": {
