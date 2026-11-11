@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-10",
+  "last_checked_date": "2026-11-11",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -4280,6 +4280,11 @@
       },
       "https://bugcrowd.com/engagements/easyagile": {
         "assets": {
+          "[\"other\", \"https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives?hosting=cloud&tab=overview\"]": {
+            "bounty": null,
+            "identifier": "https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives?hosting=cloud&tab=overview",
+            "type": "other"
+          },
           "[\"other\", \"https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview\"]": {
             "bounty": null,
             "identifier": "https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview",
@@ -4293,6 +4298,11 @@
           "[\"other\", \"https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira?hosting=cloud&tab=overview\"]": {
             "bounty": null,
             "identifier": "https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira?hosting=cloud&tab=overview",
+            "type": "other"
+          },
+          "[\"other\", \"https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies?hosting=cloud&tab=overview\"]": {
+            "bounty": null,
+            "identifier": "https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies?hosting=cloud&tab=overview",
             "type": "other"
           },
           "[\"other\", \"https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira?hosting=cloud&tab=overview\"]": {
