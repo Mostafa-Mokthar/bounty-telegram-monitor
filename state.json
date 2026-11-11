@@ -32011,6 +32011,32 @@
         "name": "BILL VDP",
         "url": "https://hackerone.com/bill_vdp"
       },
+      "https://hackerone.com/bitmex": {
+        "assets": {
+          "[\"other\", \"All Other BitMEX Assets\"]": {
+            "bounty": true,
+            "identifier": "All Other BitMEX Assets",
+            "type": "other"
+          },
+          "[\"url\", \"testnet.bitmex.com\"]": {
+            "bounty": true,
+            "identifier": "testnet.bitmex.com",
+            "type": "url"
+          },
+          "[\"url\", \"www.bitmex.com\"]": {
+            "bounty": true,
+            "identifier": "www.bitmex.com",
+            "type": "url"
+          },
+          "[\"wildcard\", \"*.bitmex.com\"]": {
+            "bounty": true,
+            "identifier": "*.bitmex.com",
+            "type": "wildcard"
+          }
+        },
+        "name": "BitMEX",
+        "url": "https://hackerone.com/bitmex"
+      },
       "https://hackerone.com/bitwarden": {
         "assets": {
           "[\"apple_store_app_id\", \"com.8bit.bitwarden\"]": {
@@ -226437,6 +226463,11 @@
             "identifier": "*.luckydays.com",
             "type": "wildcard"
           },
+          "[\"wildcard\", \"*.maxbet.ro\"]": {
+            "bounty": true,
+            "identifier": "*.maxbet.ro",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.napoleoncasino.be\"]": {
             "bounty": true,
             "identifier": "*.napoleoncasino.be",
@@ -229657,6 +229688,11 @@
             "identifier": "accountshomolog.acesso.io",
             "type": "url"
           },
+          "[\"url\", \"api.humantoken.unico.app\"]": {
+            "bounty": true,
+            "identifier": "api.humantoken.unico.app",
+            "type": "url"
+          },
           "[\"url\", \"backend-sdk.uat.private.unico.run\"]": {
             "bounty": true,
             "identifier": "backend-sdk.uat.private.unico.run",
@@ -229675,6 +229711,11 @@
           "[\"url\", \"https://sdk-h1.unico.io/createprocess\"]": {
             "bounty": true,
             "identifier": "https://sdk-h1.unico.io/createprocess",
+            "type": "url"
+          },
+          "[\"url\", \"humantoken.unico.app\"]": {
+            "bounty": true,
+            "identifier": "humantoken.unico.app",
             "type": "url"
           },
           "[\"url\", \"idcash-uat.unico.io\"]": {
