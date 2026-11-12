@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-11",
+  "last_checked_date": "2026-11-12",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -8608,6 +8608,11 @@
           "[\"website\", \"https://business-staging.getmoneytree.com/\"]": {
             "bounty": null,
             "identifier": "https://business-staging.getmoneytree.com/",
+            "type": "website"
+          },
+          "[\"website\", \"https://fitbit-lottery-staging.getmoneytree.com/\"]": {
+            "bounty": null,
+            "identifier": "https://fitbit-lottery-staging.getmoneytree.com/",
             "type": "website"
           },
           "[\"website\", \"https://fitbit-lottery.getmoneytree.com/\"]": {
