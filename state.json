@@ -111463,6 +111463,27 @@
         "name": "The Walt Disney Company",
         "url": "https://hackerone.com/disney"
       },
+      "https://hackerone.com/divvy-homes": {
+        "assets": {
+          "[\"apple_store_app_id\", \"com.divvyapp.io\"]": {
+            "bounty": false,
+            "identifier": "com.divvyapp.io",
+            "type": "apple_store_app_id"
+          },
+          "[\"google_play_app_id\", \"com.divvyapp.io\"]": {
+            "bounty": false,
+            "identifier": "com.divvyapp.io",
+            "type": "google_play_app_id"
+          },
+          "[\"url\", \"www.divvyhomes.com\"]": {
+            "bounty": false,
+            "identifier": "www.divvyhomes.com",
+            "type": "url"
+          }
+        },
+        "name": "Divvy Homes",
+        "url": "https://hackerone.com/divvy-homes"
+      },
       "https://hackerone.com/docusign": {
         "assets": {
           "[\"other\", \"All Docusign apps and assets not listed below as Out of Scope\"]": {
