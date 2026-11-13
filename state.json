@@ -15201,6 +15201,31 @@
             "identifier": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
             "type": "ios"
           },
+          "[\"network\", \"https://*.integrations.vintedgo.com\"]": {
+            "bounty": null,
+            "identifier": "https://*.integrations.vintedgo.com",
+            "type": "network"
+          },
+          "[\"network\", \"https://aim-marketplace.vinted.com\"]": {
+            "bounty": null,
+            "identifier": "https://aim-marketplace.vinted.com",
+            "type": "network"
+          },
+          "[\"network\", \"https://ems.it.vinted.com\"]": {
+            "bounty": null,
+            "identifier": "https://ems.it.vinted.com",
+            "type": "network"
+          },
+          "[\"network\", \"https://gemstash-integrations.vintedgo.com\"]": {
+            "bounty": null,
+            "identifier": "https://gemstash-integrations.vintedgo.com",
+            "type": "network"
+          },
+          "[\"network\", \"https://qnrs.vintedgo.com\"]": {
+            "bounty": null,
+            "identifier": "https://qnrs.vintedgo.com",
+            "type": "network"
+          },
           "[\"website\", \"https://badger.it.vinted.com\"]": {
             "bounty": null,
             "identifier": "https://badger.it.vinted.com",
@@ -115000,6 +115025,11 @@
           "[\"url\", \"https://brandzone.essity.com\"]": {
             "bounty": false,
             "identifier": "https://brandzone.essity.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://campus.hm.essity.com\"]": {
+            "bounty": false,
+            "identifier": "https://campus.hm.essity.com",
             "type": "url"
           },
           "[\"url\", \"https://ccevaluation.tena.com/\"]": {
