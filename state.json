@@ -26714,6 +26714,107 @@
         "name": "Anduril Industries",
         "url": "https://hackerone.com/anduril_industries"
       },
+      "https://hackerone.com/anker": {
+        "assets": {
+          "[\"apple_store_app_id\", \"Anker\"]": {
+            "bounty": true,
+            "identifier": "Anker",
+            "type": "apple_store_app_id"
+          },
+          "[\"apple_store_app_id\", \"anker-nebula/id1319092174\"]": {
+            "bounty": true,
+            "identifier": "anker-nebula/id1319092174",
+            "type": "apple_store_app_id"
+          },
+          "[\"apple_store_app_id\", \"com.anker.AnkerMake\"]": {
+            "bounty": true,
+            "identifier": "com.anker.AnkerMake",
+            "type": "apple_store_app_id"
+          },
+          "[\"apple_store_app_id\", \"com.security.BatteryCam\"]": {
+            "bounty": true,
+            "identifier": "com.security.BatteryCam",
+            "type": "apple_store_app_id"
+          },
+          "[\"apple_store_app_id\", \"soundcore/id1331876603\"]": {
+            "bounty": true,
+            "identifier": "soundcore/id1331876603",
+            "type": "apple_store_app_id"
+          },
+          "[\"google_play_app_id\", \"com.anker.charging\"]": {
+            "bounty": true,
+            "identifier": "com.anker.charging",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"com.oceanwing.FDMPrint\"]": {
+            "bounty": true,
+            "identifier": "com.oceanwing.FDMPrint",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"com.oceanwing.battery.cam\"]": {
+            "bounty": true,
+            "identifier": "com.oceanwing.battery.cam",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"id=com.oceanwing.soundcore\"]": {
+            "bounty": true,
+            "identifier": "id=com.oceanwing.soundcore",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"id=com.zhixin.controller\"]": {
+            "bounty": true,
+            "identifier": "id=com.zhixin.controller",
+            "type": "google_play_app_id"
+          },
+          "[\"hardware\", \"Anker soundcore Work D3200\"]": {
+            "bounty": true,
+            "identifier": "Anker soundcore Work D3200",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"Liberty 5 Pro Max D1204\"]": {
+            "bounty": true,
+            "identifier": "Liberty 5 Pro Max D1204",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"Solarbank 2 E1600 Pro\"]": {
+            "bounty": true,
+            "identifier": "Solarbank 2 E1600 Pro",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"eufyMake E1\"]": {
+            "bounty": true,
+            "identifier": "eufyMake E1",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"https://us.eufy.com/products/e8213181\"]": {
+            "bounty": true,
+            "identifier": "https://us.eufy.com/products/e8213181",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"https://us.eufy.com/products/t8410121\"]": {
+            "bounty": true,
+            "identifier": "https://us.eufy.com/products/t8410121",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"https://us.eufy.com/products/t88511d1\"]": {
+            "bounty": true,
+            "identifier": "https://us.eufy.com/products/t88511d1",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"https://us.eufy.com/products/t88711w1\"]": {
+            "bounty": true,
+            "identifier": "https://us.eufy.com/products/t88711w1",
+            "type": "hardware"
+          },
+          "[\"other\", \"eufyMake Studio(2D UV)\"]": {
+            "bounty": true,
+            "identifier": "eufyMake Studio(2D UV)",
+            "type": "other"
+          }
+        },
+        "name": "Anker",
+        "url": "https://hackerone.com/anker"
+      },
       "https://hackerone.com/anthropic": {
         "assets": {
           "[\"ai_model\", \"API & SDKs\"]": {
