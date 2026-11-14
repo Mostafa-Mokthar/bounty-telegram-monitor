@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-13",
+  "last_checked_date": "2026-11-14",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -4149,6 +4149,11 @@
           "[\"website\", \"https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview\"]": {
             "bounty": null,
             "identifier": "https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview",
+            "type": "website"
+          },
+          "[\"website\", \"https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira\"]": {
+            "bounty": null,
+            "identifier": "https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira",
             "type": "website"
           }
         },
