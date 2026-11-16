@@ -112534,6 +112534,11 @@
             "identifier": "Any other Epic games owned asset not listed in the out of scope section",
             "type": "other"
           },
+          "[\"other\", \"EpicGamesLauncher v2\"]": {
+            "bounty": true,
+            "identifier": "EpicGamesLauncher v2",
+            "type": "other"
+          },
           "[\"other\", \"EpicOnlineServices\"]": {
             "bounty": true,
             "identifier": "EpicOnlineServices",
@@ -115220,6 +115225,11 @@
           "[\"url\", \"https://globalmediabank.essity.com\"]": {
             "bounty": false,
             "identifier": "https://globalmediabank.essity.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://higieneinclusivatork.mx/\"]": {
+            "bounty": false,
+            "identifier": "https://higieneinclusivatork.mx/",
             "type": "url"
           },
           "[\"url\", \"https://infohub.app.essity.com/\"]": {
@@ -195501,6 +195511,11 @@
             "identifier": "contest.deere.com",
             "type": "url"
           },
+          "[\"url\", \"context-flow-preview.lifecycle-management-devl-vpn.us.e20.c01.johndeerecloud.com\"]": {
+            "bounty": false,
+            "identifier": "context-flow-preview.lifecycle-management-devl-vpn.us.e20.c01.johndeerecloud.com",
+            "type": "url"
+          },
           "[\"url\", \"copaamarela.com\"]": {
             "bounty": false,
             "identifier": "copaamarela.com",
@@ -207417,10 +207432,20 @@
             "identifier": "com.meesho.supply",
             "type": "google_play_app_id"
           },
+          "[\"google_play_app_id\", \"com.valmo.ops\"]": {
+            "bounty": true,
+            "identifier": "com.valmo.ops",
+            "type": "google_play_app_id"
+          },
           "[\"google_play_app_id\", \"com.valmo.valmo\"]": {
             "bounty": true,
             "identifier": "com.valmo.valmo",
             "type": "google_play_app_id"
+          },
+          "[\"other\", \"com.valmo.rider\"]": {
+            "bounty": true,
+            "identifier": "com.valmo.rider",
+            "type": "other"
           },
           "[\"url\", \"admin.meeshosupply.com\"]": {
             "bounty": true,
@@ -207430,6 +207455,16 @@
           "[\"url\", \"affiliate.meesho.com\"]": {
             "bounty": true,
             "identifier": "affiliate.meesho.com",
+            "type": "url"
+          },
+          "[\"url\", \"console.valmo.in\"]": {
+            "bounty": true,
+            "identifier": "console.valmo.in",
+            "type": "url"
+          },
+          "[\"url\", \"grocery-supplier.meesho.com\"]": {
+            "bounty": true,
+            "identifier": "grocery-supplier.meesho.com",
             "type": "url"
           },
           "[\"url\", \"investor.meesho.com\"]": {
