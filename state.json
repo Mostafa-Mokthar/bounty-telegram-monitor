@@ -180955,6 +180955,11 @@
             "identifier": "uat.www.shrndconsumer.henkel-consumer-brands.cn",
             "type": "url"
           },
+          "[\"url\", \"www.freshlight.jp\"]": {
+            "bounty": false,
+            "identifier": "www.freshlight.jp",
+            "type": "url"
+          },
           "[\"url\", \"www.joico.ca/\"]": {
             "bounty": false,
             "identifier": "www.joico.ca/",
@@ -181180,9 +181185,19 @@
             "identifier": "*.got2b.com",
             "type": "wildcard"
           },
+          "[\"wildcard\", \"*.got2b.{com,jp}\"]": {
+            "bounty": false,
+            "identifier": "*.got2b.{com,jp}",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.hairshop.hr\"]": {
             "bounty": false,
             "identifier": "*.hairshop.hr",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.henkel-ac.jp\"]": {
+            "bounty": false,
+            "identifier": "*.henkel-ac.jp",
             "type": "wildcard"
           },
           "[\"wildcard\", \"*.henkel-adhesives.cn\"]": {
@@ -181493,6 +181508,11 @@
           "[\"wildcard\", \"*.loctite.com\"]": {
             "bounty": false,
             "identifier": "*.loctite.com",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.loctite.jp\"]": {
+            "bounty": false,
+            "identifier": "*.loctite.jp",
             "type": "wildcard"
           },
           "[\"wildcard\", \"*.loctite55.be\"]": {
@@ -181835,6 +181855,11 @@
             "identifier": "*.sawope.com",
             "type": "wildcard"
           },
+          "[\"wildcard\", \"*.schwarzkopf-henkel.jp\"]": {
+            "bounty": false,
+            "identifier": "*.schwarzkopf-henkel.jp",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.schwarzkopf.*\"]": {
             "bounty": false,
             "identifier": "*.schwarzkopf.*",
@@ -181863,6 +181888,11 @@
           "[\"wildcard\", \"*.sexyhair.com\"]": {
             "bounty": false,
             "identifier": "*.sexyhair.com",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.shiseido-professional.com\"]": {
+            "bounty": false,
+            "identifier": "*.shiseido-professional.com",
             "type": "wildcard"
           },
           "[\"wildcard\", \"*.shiseidoprofessionaledu.co.kr\"]": {
