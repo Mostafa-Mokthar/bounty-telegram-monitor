@@ -209760,6 +209760,11 @@
             "identifier": "https://www.clifbar.com",
             "type": "url"
           },
+          "[\"url\", \"https://www.lojamondelez.com.br/\"]": {
+            "bounty": false,
+            "identifier": "https://www.lojamondelez.com.br/",
+            "type": "url"
+          },
           "[\"url\", \"https://www.tatesbakeshop.com\"]": {
             "bounty": false,
             "identifier": "https://www.tatesbakeshop.com",
