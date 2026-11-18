@@ -9591,6 +9591,11 @@
             "identifier": "OpenSea Solana Marketplace Program",
             "type": "other"
           },
+          "[\"other\", \"http://mcp.opensea.io/sse\"]": {
+            "bounty": null,
+            "identifier": "http://mcp.opensea.io/sse",
+            "type": "other"
+          },
           "[\"other\", \"https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5\"]": {
             "bounty": null,
             "identifier": "https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5",
@@ -9609,6 +9614,11 @@
           "[\"other\", \"https://mcp.opensea.io\"]": {
             "bounty": null,
             "identifier": "https://mcp.opensea.io",
+            "type": "other"
+          },
+          "[\"other\", \"https://mcp.opensea.io/mcp\"]": {
+            "bounty": null,
+            "identifier": "https://mcp.opensea.io/mcp",
             "type": "other"
           },
           "[\"website\", \"Broken Link\"]": {
@@ -196409,6 +196419,11 @@
             "identifier": "certifieddigital.deere.com",
             "type": "url"
           },
+          "[\"url\", \"cfignition-devl.deere.com\"]": {
+            "bounty": false,
+            "identifier": "cfignition-devl.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"cfscf.deere.com\"]": {
             "bounty": false,
             "identifier": "cfscf.deere.com",
@@ -196687,6 +196702,11 @@
           "[\"url\", \"customer-identity.deere.com\"]": {
             "bounty": false,
             "identifier": "customer-identity.deere.com",
+            "type": "url"
+          },
+          "[\"url\", \"customer-rewards-third-party-microservice.channel-owner-portal-myjohndeere-prod-vpn2.use1.e06.c01.johndeerecloud.com\"]": {
+            "bounty": false,
+            "identifier": "customer-rewards-third-party-microservice.channel-owner-portal-myjohndeere-prod-vpn2.use1.e06.c01.johndeerecloud.com",
             "type": "url"
           },
           "[\"url\", \"customermanageapi.deere.com\"]": {
@@ -197157,6 +197177,11 @@
           "[\"url\", \"dig.deere.com\"]": {
             "bounty": false,
             "identifier": "dig.deere.com",
+            "type": "url"
+          },
+          "[\"url\", \"digitalcampus-devl.deere.com\"]": {
+            "bounty": false,
+            "identifier": "digitalcampus-devl.deere.com",
             "type": "url"
           },
           "[\"url\", \"digitalcampus.deere.com\"]": {
@@ -202699,6 +202724,11 @@
             "identifier": "vdp.deere.com",
             "type": "url"
           },
+          "[\"url\", \"vdv-jdps-sam.deere.com\"]": {
+            "bounty": false,
+            "identifier": "vdv-jdps-sam.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"vector.sentera.com\"]": {
             "bounty": false,
             "identifier": "vector.sentera.com",
@@ -203067,6 +203097,11 @@
           "[\"url\", \"vpntest.johndeereandco.com\"]": {
             "bounty": false,
             "identifier": "vpntest.johndeereandco.com",
+            "type": "url"
+          },
+          "[\"url\", \"vs-trenching.analytics-vpn.us.e01.c01.johndeerecloud.com\"]": {
+            "bounty": false,
+            "identifier": "vs-trenching.analytics-vpn.us.e01.c01.johndeerecloud.com",
             "type": "url"
           },
           "[\"url\", \"vtt.deere.com\"]": {
@@ -232301,6 +232336,11 @@
             "identifier": "https://ebctest.cybersource.com/CGK2",
             "type": "url"
           },
+          "[\"url\", \"https://ebctest.cybersource.com/apm\"]": {
+            "bounty": true,
+            "identifier": "https://ebctest.cybersource.com/apm",
+            "type": "url"
+          },
           "[\"url\", \"https://ebctest.cybersource.com/bin\"]": {
             "bounty": true,
             "identifier": "https://ebctest.cybersource.com/bin",
@@ -232329,6 +232369,11 @@
           "[\"url\", \"https://ebctest.cybersource.com/cds/\"]": {
             "bounty": true,
             "identifier": "https://ebctest.cybersource.com/cds/",
+            "type": "url"
+          },
+          "[\"url\", \"https://ebctest.cybersource.com/devicemanagement\"]": {
+            "bounty": true,
+            "identifier": "https://ebctest.cybersource.com/devicemanagement",
             "type": "url"
           },
           "[\"url\", \"https://ebctest.cybersource.com/dmconfigapi\"]": {
