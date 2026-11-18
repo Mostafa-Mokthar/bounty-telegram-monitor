@@ -8978,6 +8978,212 @@
         "name": "Nextup.ai",
         "url": "https://bugcrowd.com/engagements/nextupai"
       },
+      "https://bugcrowd.com/engagements/nord-security-mbb": {
+        "assets": {
+          "[\"android\", \"https://nordlayer.com/download/android/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlayer.com/download/android/",
+            "type": "android"
+          },
+          "[\"android\", \"https://nordlocker.com/download/android/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlocker.com/download/android/",
+            "type": "android"
+          },
+          "[\"android\", \"https://nordpass.com/download/android/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/android/",
+            "type": "android"
+          },
+          "[\"android\", \"https://nordvpn.com/download/android/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/android/",
+            "type": "android"
+          },
+          "[\"api\", \"https://api.nordlayer.com/\"]": {
+            "bounty": null,
+            "identifier": "https://api.nordlayer.com/",
+            "type": "api"
+          },
+          "[\"ios\", \"https://nordlayer.com/download/ios/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlayer.com/download/ios/",
+            "type": "ios"
+          },
+          "[\"ios\", \"https://nordlocker.com/download/ios/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlocker.com/download/ios/",
+            "type": "ios"
+          },
+          "[\"ios\", \"https://nordpass.com/download/ios/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/ios/",
+            "type": "ios"
+          },
+          "[\"ios\", \"https://nordvpn.com/download/ios/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/ios/",
+            "type": "ios"
+          },
+          "[\"other\", \"Nord Security VPN servers\"]": {
+            "bounty": null,
+            "identifier": "Nord Security VPN servers",
+            "type": "other"
+          },
+          "[\"other\", \"Nord Security backend services and website\"]": {
+            "bounty": null,
+            "identifier": "Nord Security backend services and website",
+            "type": "other"
+          },
+          "[\"other\", \"https://chromewebstore.google.com/detail/nordlayer-browser-extensi/pilehkefiejmhdldhbajgajlcgggohkj\"]": {
+            "bounty": null,
+            "identifier": "https://chromewebstore.google.com/detail/nordlayer-browser-extensi/pilehkefiejmhdldhbajgajlcgggohkj",
+            "type": "other"
+          },
+          "[\"other\", \"https://cloud.nordlocker.com/\"]": {
+            "bounty": null,
+            "identifier": "https://cloud.nordlocker.com/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordlayer.com/browser/download/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlayer.com/browser/download/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordlayer.com/download/linux/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlayer.com/download/linux/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordlayer.com/download/macos/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlayer.com/download/macos/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordlayer.com/download/windows/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlayer.com/download/windows/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordlocker.com/download/windows/\"]": {
+            "bounty": null,
+            "identifier": "https://nordlocker.com/download/windows/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordpass.com/download/chrome/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/chrome/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordpass.com/download/linux/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/linux/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordpass.com/download/macos/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/macos/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordpass.com/download/windows/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/windows/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/android-tv/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/android-tv/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/apple-tv/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/apple-tv/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/chrome-extension/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/chrome-extension/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/edge-extension/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/edge-extension/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/firefox-extension/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/firefox-extension/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/linux/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/linux/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/mac/\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/mac/",
+            "type": "other"
+          },
+          "[\"other\", \"https://nordvpn.com/download/windows\"]": {
+            "bounty": null,
+            "identifier": "https://nordvpn.com/download/windows",
+            "type": "other"
+          },
+          "[\"website\", \"https://*.nordaccount.com\"]": {
+            "bounty": null,
+            "identifier": "https://*.nordaccount.com",
+            "type": "website"
+          },
+          "[\"website\", \"https://*.nordcheckout.com\"]": {
+            "bounty": null,
+            "identifier": "https://*.nordcheckout.com",
+            "type": "website"
+          },
+          "[\"website\", \"https://*.nordlocker.com\"]": {
+            "bounty": null,
+            "identifier": "https://*.nordlocker.com",
+            "type": "website"
+          },
+          "[\"website\", \"https://*.nordpass.com\"]": {
+            "bounty": null,
+            "identifier": "https://*.nordpass.com",
+            "type": "website"
+          },
+          "[\"website\", \"https://*.nordvpn.com/\"]": {
+            "bounty": null,
+            "identifier": "https://*.nordvpn.com/",
+            "type": "website"
+          },
+          "[\"website\", \"https://cp.nordlayer.com/*\"]": {
+            "bounty": null,
+            "identifier": "https://cp.nordlayer.com/*",
+            "type": "website"
+          },
+          "[\"website\", \"https://nordlayer.com/*\"]": {
+            "bounty": null,
+            "identifier": "https://nordlayer.com/*",
+            "type": "website"
+          },
+          "[\"website\", \"https://nordpass.com/apps/web-vault/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/apps/web-vault/",
+            "type": "website"
+          },
+          "[\"website\", \"https://nordpass.com/download/edge/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/edge/",
+            "type": "website"
+          },
+          "[\"website\", \"https://nordpass.com/download/firefox/\"]": {
+            "bounty": null,
+            "identifier": "https://nordpass.com/download/firefox/",
+            "type": "website"
+          }
+        },
+        "name": "Nord Security Managed Bug Bounty Engagement",
+        "url": "https://bugcrowd.com/engagements/nord-security-mbb"
+      },
       "https://bugcrowd.com/engagements/northwestern-mutual-mbb-og": {
         "assets": {
           "[\"android\", \"https://play.google.com/store/apps/details?id=com.nm.nm&hl=en_US&gl=US\"]": {
@@ -24266,6 +24472,32 @@
         },
         "name": "Airtable",
         "url": "https://hackerone.com/airtable"
+      },
+      "https://hackerone.com/algolia": {
+        "assets": {
+          "[\"url\", \"dashboard.algolia.com\"]": {
+            "bounty": true,
+            "identifier": "dashboard.algolia.com",
+            "type": "url"
+          },
+          "[\"url\", \"www.algolia.com\"]": {
+            "bounty": true,
+            "identifier": "www.algolia.com",
+            "type": "url"
+          },
+          "[\"wildcard\", \"*.algolia.net\"]": {
+            "bounty": true,
+            "identifier": "*.algolia.net",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.algolianet.com\"]": {
+            "bounty": true,
+            "identifier": "*.algolianet.com",
+            "type": "wildcard"
+          }
+        },
+        "name": "Algolia",
+        "url": "https://hackerone.com/algolia"
       },
       "https://hackerone.com/alibaba_vdp": {
         "assets": {
