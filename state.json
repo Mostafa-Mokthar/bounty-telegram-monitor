@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-17",
+  "last_checked_date": "2026-11-18",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -104150,6 +104150,337 @@
         },
         "name": "Costco",
         "url": "https://hackerone.com/costco"
+      },
+      "https://hackerone.com/coupang": {
+        "assets": {
+          "[\"apple_store_app_id\", \"COUPANG (IOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG (IOS)",
+            "type": "apple_store_app_id"
+          },
+          "[\"apple_store_app_id\", \"COUPANG EATS (IOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG EATS (IOS)",
+            "type": "apple_store_app_id"
+          },
+          "[\"apple_store_app_id\", \"COUPANG LIVE CREATOR (IOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG LIVE CREATOR (IOS)",
+            "type": "apple_store_app_id"
+          },
+          "[\"apple_store_app_id\", \"COUPANG PLAY (IOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG PLAY (IOS)",
+            "type": "apple_store_app_id"
+          },
+          "[\"google_play_app_id\", \"COUPANG (AOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG (AOS)",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"COUPANG EATS (AOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG EATS (AOS)",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"COUPANG LIVE CREATOR (AOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG LIVE CREATOR (AOS)",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"COUPANG PLAY (AOS)\"]": {
+            "bounty": true,
+            "identifier": "COUPANG PLAY (AOS)",
+            "type": "google_play_app_id"
+          },
+          "[\"url\", \"api.coupangeats.com\"]": {
+            "bounty": true,
+            "identifier": "api.coupangeats.com",
+            "type": "url"
+          },
+          "[\"url\", \"api.coupangstreaming.com\"]": {
+            "bounty": true,
+            "identifier": "api.coupangstreaming.com",
+            "type": "url"
+          },
+          "[\"url\", \"as.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "as.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"cart.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "cart.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"cash.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "cash.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"cast.coupangstreaming.com\"]": {
+            "bounty": true,
+            "identifier": "cast.coupangstreaming.com",
+            "type": "url"
+          },
+          "[\"url\", \"centaurs-rest.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "centaurs-rest.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"centaurs.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "centaurs.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"checkout.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "checkout.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"cmapi.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "cmapi.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"cmapi.coupang.kr\"]": {
+            "bounty": true,
+            "identifier": "cmapi.coupang.kr",
+            "type": "url"
+          },
+          "[\"url\", \"coupang.com\"]": {
+            "bounty": true,
+            "identifier": "coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"cousms.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "cousms.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"csmessenger.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "csmessenger.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"dco.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "dco.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"dfs.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "dfs.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"discover.coupangstreaming.com\"]": {
+            "bounty": true,
+            "identifier": "discover.coupangstreaming.com",
+            "type": "url"
+          },
+          "[\"url\", \"eats-mobile-web.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "eats-mobile-web.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"egift.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "egift.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"feed-web.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "feed-web.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"fileupload.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "fileupload.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"id.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "id.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"img.coupangstreaming.com\"]": {
+            "bounty": true,
+            "identifier": "img.coupangstreaming.com",
+            "type": "url"
+          },
+          "[\"url\", \"live.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "live.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"live.coupangcorp.com\"]": {
+            "bounty": true,
+            "identifier": "live.coupangcorp.com",
+            "type": "url"
+          },
+          "[\"url\", \"livecreator.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "livecreator.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"liveh5.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "liveh5.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"ljc-test.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "ljc-test.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"ljc.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "ljc.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"login.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "login.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"loyalty.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "loyalty.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"m.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "m.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"mc.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "mc.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"media-log.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "media-log.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"mercury.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "mercury.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"my.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "my.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"myself.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "myself.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"p.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "p.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"pages.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "pages.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"pay.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "pay.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"payment.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "payment.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"payment.coupangpay.com\"]": {
+            "bounty": true,
+            "identifier": "payment.coupangpay.com",
+            "type": "url"
+          },
+          "[\"url\", \"reco.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "reco.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"review.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "review.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"rocketpay.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "rocketpay.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"shop.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "shop.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"shop.coupangpay.com\"]": {
+            "bounty": true,
+            "identifier": "shop.coupangpay.com",
+            "type": "url"
+          },
+          "[\"url\", \"subscribe-order.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "subscribe-order.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"syndication.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "syndication.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"trip.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "trip.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"web.coupangeats.com\"]": {
+            "bounty": true,
+            "identifier": "web.coupangeats.com",
+            "type": "url"
+          },
+          "[\"url\", \"web.coupangstreaming.com\"]": {
+            "bounty": true,
+            "identifier": "web.coupangstreaming.com",
+            "type": "url"
+          },
+          "[\"url\", \"weblog.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "weblog.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"wish-web.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "wish-web.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"www.coupang.com\"]": {
+            "bounty": true,
+            "identifier": "www.coupang.com",
+            "type": "url"
+          },
+          "[\"url\", \"www.coupangeats.com\"]": {
+            "bounty": true,
+            "identifier": "www.coupangeats.com",
+            "type": "url"
+          },
+          "[\"url\", \"www.coupangplay.com\"]": {
+            "bounty": true,
+            "identifier": "www.coupangplay.com",
+            "type": "url"
+          }
+        },
+        "name": "Coupang",
+        "url": "https://hackerone.com/coupang"
       },
       "https://hackerone.com/coupang_tw": {
         "assets": {
