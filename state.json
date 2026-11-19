@@ -24932,6 +24932,11 @@
             "identifier": "Interflex Reader SDK",
             "type": "downloadable_executables"
           },
+          "[\"downloadable_executables\", \"SimonsVoss AX Manager\"]": {
+            "bounty": false,
+            "identifier": "SimonsVoss AX Manager",
+            "type": "downloadable_executables"
+          },
           "[\"google_play_app_id\", \"com.allegion.cisa.openx\"]": {
             "bounty": false,
             "identifier": "com.allegion.cisa.openx",
@@ -25005,6 +25010,11 @@
           "[\"google_play_app_id\", \"com.simonsvoss.mobilekey.key4android\"]": {
             "bounty": false,
             "identifier": "com.simonsvoss.mobilekey.key4android",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"com.stanleyaccesstechnologies.iqtoolbox\"]": {
+            "bounty": false,
+            "identifier": "com.stanleyaccesstechnologies.iqtoolbox",
             "type": "google_play_app_id"
           },
           "[\"google_play_app_id\", \"https://play.google.com/store/apps/details?id=com.allegion.cisa.smartaccess\"]": {
@@ -25600,6 +25610,16 @@
           "[\"hardware\", \"Schlage NDE/NDEB\"]": {
             "bounty": false,
             "identifier": "Schlage NDE/NDEB",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"Stanley Access Technologies Bluetooth Adapter Kit\"]": {
+            "bounty": false,
+            "identifier": "Stanley Access Technologies Bluetooth Adapter Kit",
+            "type": "hardware"
+          },
+          "[\"hardware\", \"Stanley Access Technologies MC521 Controller\"]": {
+            "bounty": false,
+            "identifier": "Stanley Access Technologies MC521 Controller",
             "type": "hardware"
           },
           "[\"hardware\", \"Von Duprin RU/RM\"]": {
@@ -109835,9 +109855,24 @@
             "identifier": "http://gitlab.balldayton.com",
             "type": "url"
           },
+          "[\"url\", \"http://gp.survice.com\"]": {
+            "bounty": false,
+            "identifier": "http://gp.survice.com",
+            "type": "url"
+          },
           "[\"url\", \"http://gp.validatek.com\"]": {
             "bounty": false,
             "identifier": "http://gp.validatek.com",
+            "type": "url"
+          },
+          "[\"url\", \"http://gpc.survice.com\"]": {
+            "bounty": false,
+            "identifier": "http://gpc.survice.com",
+            "type": "url"
+          },
+          "[\"url\", \"http://gpm.survice.com\"]": {
+            "bounty": false,
+            "identifier": "http://gpm.survice.com",
             "type": "url"
           },
           "[\"url\", \"http://gpvpn.ballaerospace.com\"]": {
@@ -110000,6 +110035,16 @@
             "identifier": "http://mail.pitch.se",
             "type": "url"
           },
+          "[\"url\", \"http://mail3.survice.com\"]": {
+            "bounty": false,
+            "identifier": "http://mail3.survice.com",
+            "type": "url"
+          },
+          "[\"url\", \"http://mail4.survice.com\"]": {
+            "bounty": false,
+            "identifier": "http://mail4.survice.com",
+            "type": "url"
+          },
           "[\"url\", \"http://morpheus.usgcns.net\"]": {
             "bounty": false,
             "identifier": "http://morpheus.usgcns.net",
@@ -110063,6 +110108,11 @@
           "[\"url\", \"http://pitchse-tvkcgqggkr.dynamic-m.com\"]": {
             "bounty": false,
             "identifier": "http://pitchse-tvkcgqggkr.dynamic-m.com",
+            "type": "url"
+          },
+          "[\"url\", \"http://pki.survice.com\"]": {
+            "bounty": false,
+            "identifier": "http://pki.survice.com",
             "type": "url"
           },
           "[\"url\", \"http://pki.us.baesystems.com\"]": {
@@ -110380,9 +110430,29 @@
             "identifier": "http://www.irsp.com",
             "type": "url"
           },
+          "[\"url\", \"http://www.jasp-online.org\"]": {
+            "bounty": false,
+            "identifier": "http://www.jasp-online.org",
+            "type": "url"
+          },
           "[\"url\", \"http://www.nucleussec.com\"]": {
             "bounty": false,
             "identifier": "http://www.nucleussec.com",
+            "type": "url"
+          },
+          "[\"url\", \"http://www.survice.com\"]": {
+            "bounty": false,
+            "identifier": "http://www.survice.com",
+            "type": "url"
+          },
+          "[\"url\", \"http://www.survpath.com\"]": {
+            "bounty": false,
+            "identifier": "http://www.survpath.com",
+            "type": "url"
+          },
+          "[\"url\", \"http://www.warriorsonthegreen.org\"]": {
+            "bounty": false,
+            "identifier": "http://www.warriorsonthegreen.org",
             "type": "url"
           },
           "[\"url\", \"http://www2.pitch.se\"]": {
@@ -111838,6 +111908,11 @@
           "[\"url\", \"relaywest.northgrum.com\"]": {
             "bounty": false,
             "identifier": "relaywest.northgrum.com",
+            "type": "url"
+          },
+          "[\"url\", \"remote.survice.com\"]": {
+            "bounty": false,
+            "identifier": "remote.survice.com",
             "type": "url"
           },
           "[\"url\", \"remoteaccess.northropgrumman.com\"]": {
@@ -195874,6 +195949,11 @@
             "identifier": "apistaging2.sentera.com",
             "type": "url"
           },
+          "[\"url\", \"apollo-academy.jdf-dataenabl-qual-vpn.us.e10.c01.johndeerecloud.com\"]": {
+            "bounty": false,
+            "identifier": "apollo-academy.jdf-dataenabl-qual-vpn.us.e10.c01.johndeerecloud.com",
+            "type": "url"
+          },
           "[\"url\", \"app-pulse.deere.com\"]": {
             "bounty": false,
             "identifier": "app-pulse.deere.com",
@@ -196517,6 +196597,11 @@
           "[\"url\", \"changepassword.kreiselelectric.com\"]": {
             "bounty": false,
             "identifier": "changepassword.kreiselelectric.com",
+            "type": "url"
+          },
+          "[\"url\", \"channel-ai-solutions.deere.com\"]": {
+            "bounty": false,
+            "identifier": "channel-ai-solutions.deere.com",
             "type": "url"
           },
           "[\"url\", \"ciber.com.br\"]": {
@@ -201534,6 +201619,11 @@
             "identifier": "self-dev.services.wirtgen-group.com",
             "type": "url"
           },
+          "[\"url\", \"self-service.deere.com\"]": {
+            "bounty": false,
+            "identifier": "self-service.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"self.services.wirtgen-group.com\"]": {
             "bounty": false,
             "identifier": "self.services.wirtgen-group.com",
@@ -206372,6 +206462,26 @@
       },
       "https://hackerone.com/latamairlines": {
         "assets": {
+          "[\"google_play_app_id\", \"https://play.google.com/store/apps/details?id=com.latam.amelia\"]": {
+            "bounty": false,
+            "identifier": "https://play.google.com/store/apps/details?id=com.latam.amelia",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"https://play.google.com/store/apps/details?id=com.latam.mobile.pilotapp\"]": {
+            "bounty": false,
+            "identifier": "https://play.google.com/store/apps/details?id=com.latam.mobile.pilotapp",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"https://play.google.com/store/apps/details?id=com.latam.pass\"]": {
+            "bounty": false,
+            "identifier": "https://play.google.com/store/apps/details?id=com.latam.pass",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"https://play.google.com/store/apps/details?id=com.latam.xp\"]": {
+            "bounty": false,
+            "identifier": "https://play.google.com/store/apps/details?id=com.latam.xp",
+            "type": "google_play_app_id"
+          },
           "[\"url\", \"acintra.appslatam.com\"]": {
             "bounty": false,
             "identifier": "acintra.appslatam.com",
@@ -229777,6 +229887,11 @@
             "identifier": "sompoh-crivoapi.crivo.com.br",
             "type": "url"
           },
+          "[\"url\", \"sontiq.com\"]": {
+            "bounty": false,
+            "identifier": "sontiq.com",
+            "type": "url"
+          },
           "[\"url\", \"srp-idtheft.com\"]": {
             "bounty": false,
             "identifier": "srp-idtheft.com",
@@ -231093,6 +231208,11 @@
             "identifier": "api.humantoken.unico.app",
             "type": "url"
           },
+          "[\"url\", \"backend-sdk.prod.private.unico.run\"]": {
+            "bounty": true,
+            "identifier": "backend-sdk.prod.private.unico.run",
+            "type": "url"
+          },
           "[\"url\", \"backend-sdk.uat.private.unico.run\"]": {
             "bounty": true,
             "identifier": "backend-sdk.uat.private.unico.run",
@@ -231101,6 +231221,11 @@
           "[\"url\", \"blog.unico.io\"]": {
             "bounty": true,
             "identifier": "blog.unico.io",
+            "type": "url"
+          },
+          "[\"url\", \"cadastro.unico.app\"]": {
+            "bounty": true,
+            "identifier": "cadastro.unico.app",
             "type": "url"
           },
           "[\"url\", \"dashboard.unico.app\"]": {
