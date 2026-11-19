@@ -7608,6 +7608,11 @@
             "identifier": "https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US",
             "type": "android"
           },
+          "[\"android\", \"https://play.google.com/store/search?q=mall+of+emirates&c=apps&hl=en_IN\"]": {
+            "bounty": null,
+            "identifier": "https://play.google.com/store/search?q=mall+of+emirates&c=apps&hl=en_IN",
+            "type": "android"
+          },
           "[\"api\", \"https://maf-holding-prod.apigee.net\"]": {
             "bounty": null,
             "identifier": "https://maf-holding-prod.apigee.net",
@@ -7627,6 +7632,11 @@
             "bounty": null,
             "identifier": "https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt",
             "type": "api"
+          },
+          "[\"ios\", \"https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693\"]": {
+            "bounty": null,
+            "identifier": "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
+            "type": "ios"
           },
           "[\"ios\", \"https://apps.apple.com/us/app/share-rewards/id1465450657\"]": {
             "bounty": null,
@@ -7726,6 +7736,61 @@
           "[\"website\", \"https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/zISrnnxfS19jUJTUAtnFaTUkAJ27r8mE\"]": {
             "bounty": null,
             "identifier": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/zISrnnxfS19jUJTUAtnFaTUkAJ27r8mE",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en-ae/city-centre-ajman\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en-ae/city-centre-ajman",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en-ae/city-centre-deira\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en-ae/city-centre-deira",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en-ae/city-centre-meaisem\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en-ae/city-centre-meaisem",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en-ae/city-centre-mirdif\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en-ae/city-centre-mirdif",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en-ae/city-centre-sharjah\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en-ae/city-centre-sharjah",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en-ae/city-centre-zahia\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en-ae/city-centre-zahia",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.citycentremalls.com/en-bh/city-centre-bahrain\"]": {
+            "bounty": null,
+            "identifier": "https://www.citycentremalls.com/en-bh/city-centre-bahrain",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.mallofegypt.com/en\"]": {
+            "bounty": null,
+            "identifier": "https://www.mallofegypt.com/en",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.mallofoman.net/en\"]": {
+            "bounty": null,
+            "identifier": "https://www.mallofoman.net/en",
+            "type": "website"
+          },
+          "[\"website\", \"https://www.malloftheemirates.com/en\"]": {
+            "bounty": null,
+            "identifier": "https://www.malloftheemirates.com/en",
             "type": "website"
           },
           "[\"website\", \"https://www.premogiftcards.com/\"]": {
@@ -25862,6 +25927,11 @@
             "bounty": false,
             "identifier": "www.alohi.com",
             "type": "url"
+          },
+          "[\"wildcard\", \"*.dial.plus\"]": {
+            "bounty": false,
+            "identifier": "*.dial.plus",
+            "type": "wildcard"
           },
           "[\"wildcard\", \"*.fax.plus\"]": {
             "bounty": false,
