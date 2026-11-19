@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-18",
+  "last_checked_date": "2026-11-19",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -25610,6 +25610,11 @@
           "[\"other\", \"LCN 9500IQ / 2800IQ Senior Swing Series Operators\"]": {
             "bounty": false,
             "identifier": "LCN 9500IQ / 2800IQ Senior Swing Series Operators",
+            "type": "other"
+          },
+          "[\"other\", \"Overtur\"]": {
+            "bounty": false,
+            "identifier": "Overtur",
             "type": "other"
           },
           "[\"other\", \"Smart Software 4\"]": {
