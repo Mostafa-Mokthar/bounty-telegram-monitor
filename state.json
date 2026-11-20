@@ -124040,6 +124040,11 @@
             "identifier": "*.advisorchannel.com",
             "type": "wildcard"
           },
+          "[\"wildcard\", \"*.fidsafe.com\"]": {
+            "bounty": false,
+            "identifier": "*.fidsafe.com",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.mystreetscape.com\"]": {
             "bounty": false,
             "identifier": "*.mystreetscape.com",
@@ -202034,6 +202039,11 @@
             "identifier": "softwareupdates.deere.com",
             "type": "url"
           },
+          "[\"url\", \"soil-health.deere.com\"]": {
+            "bounty": false,
+            "identifier": "soil-health.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"solutionviewer.deere.com\"]": {
             "bounty": false,
             "identifier": "solutionviewer.deere.com",
@@ -221763,6 +221773,17 @@
         "name": "PhonePe",
         "url": "https://hackerone.com/phonepe_vdp"
       },
+      "https://hackerone.com/phpbb": {
+        "assets": {
+          "[\"source_code\", \"https://github.com/phpbb/phpbb\"]": {
+            "bounty": false,
+            "identifier": "https://github.com/phpbb/phpbb",
+            "type": "source_code"
+          }
+        },
+        "name": "phpBB",
+        "url": "https://hackerone.com/phpbb"
+      },
       "https://hackerone.com/picsart": {
         "assets": {
           "[\"apple_store_app_id\", \"587366035\"]": {
@@ -230667,6 +230688,11 @@
           "[\"api\", \"trunking.twilio.com\"]": {
             "bounty": true,
             "identifier": "trunking.twilio.com",
+            "type": "api"
+          },
+          "[\"api\", \"verify.twilio.com\"]": {
+            "bounty": true,
+            "identifier": "verify.twilio.com",
             "type": "api"
           },
           "[\"apple_store_app_id\", \"com.authy\"]": {
