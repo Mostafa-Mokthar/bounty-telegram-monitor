@@ -8149,6 +8149,11 @@
             "identifier": "https://github.com/mattermost/mattermost-plugin-calls",
             "type": "other"
           },
+          "[\"other\", \"https://github.com/mattermost/mattermost-plugin-channel-export\"]": {
+            "bounty": null,
+            "identifier": "https://github.com/mattermost/mattermost-plugin-channel-export",
+            "type": "other"
+          },
           "[\"other\", \"https://github.com/mattermost/mattermost-plugin-confluence\"]": {
             "bounty": null,
             "identifier": "https://github.com/mattermost/mattermost-plugin-confluence",
@@ -8167,6 +8172,11 @@
           "[\"other\", \"https://github.com/mattermost/mattermost-plugin-jira\"]": {
             "bounty": null,
             "identifier": "https://github.com/mattermost/mattermost-plugin-jira",
+            "type": "other"
+          },
+          "[\"other\", \"https://github.com/mattermost/mattermost-plugin-metrics\"]": {
+            "bounty": null,
+            "identifier": "https://github.com/mattermost/mattermost-plugin-metrics",
             "type": "other"
           },
           "[\"other\", \"https://github.com/mattermost/mattermost-plugin-mscalendar\"]": {
@@ -217903,6 +217913,11 @@
           "[\"url\", \"sellerportal.newegg.com\"]": {
             "bounty": false,
             "identifier": "sellerportal.newegg.com",
+            "type": "url"
+          },
+          "[\"url\", \"www.sellingpilot.com\"]": {
+            "bounty": true,
+            "identifier": "www.sellingpilot.com",
             "type": "url"
           },
           "[\"wildcard\", \"http://*.newegg.ca\"]": {
