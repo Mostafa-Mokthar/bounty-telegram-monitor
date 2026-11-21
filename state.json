@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-20",
+  "last_checked_date": "2026-11-21",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -2571,6 +2571,11 @@
           "[\"website\", \"https://marketplace.atlassian.com/apps/1226195/align-okr-with-roadmap?hosting=cloud&tab=overview\"]": {
             "bounty": null,
             "identifier": "https://marketplace.atlassian.com/apps/1226195/align-okr-with-roadmap?hosting=cloud&tab=overview",
+            "type": "website"
+          },
+          "[\"website\", \"https://marketplace.atlassian.com/apps/2394034939/email-attach-automation-exporter-pdf-word-claude-mcp?hosting=cloud&tab=overview\"]": {
+            "bounty": null,
+            "identifier": "https://marketplace.atlassian.com/apps/2394034939/email-attach-automation-exporter-pdf-word-claude-mcp?hosting=cloud&tab=overview",
             "type": "website"
           }
         },
@@ -197454,6 +197459,11 @@
             "identifier": "drxapi.deere.com",
             "type": "url"
           },
+          "[\"url\", \"ds4.sap.allmakes.deere.com\"]": {
+            "bounty": false,
+            "identifier": "ds4.sap.allmakes.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"dtacsolutionviewer-devl.deere.com\"]": {
             "bounty": false,
             "identifier": "dtacsolutionviewer-devl.deere.com",
@@ -232565,6 +232575,11 @@
           "[\"url\", \"http://test.payworks.io/uis/mngr/\"]": {
             "bounty": true,
             "identifier": "http://test.payworks.io/uis/mngr/",
+            "type": "url"
+          },
+          "[\"url\", \"https://ebc2test.cybersource.com/currencyconversion\"]": {
+            "bounty": true,
+            "identifier": "https://ebc2test.cybersource.com/currencyconversion",
             "type": "url"
           },
           "[\"url\", \"https://ebc2test.cybersource.com/settings\"]": {
