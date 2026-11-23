@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-22",
+  "last_checked_date": "2026-11-23",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -180405,6 +180405,52 @@
         },
         "name": "Front",
         "url": "https://hackerone.com/fronthq"
+      },
+      "https://hackerone.com/gcash_vdp": {
+        "assets": {
+          "[\"apple_store_app_id\", \"GCash\"]": {
+            "bounty": false,
+            "identifier": "GCash",
+            "type": "apple_store_app_id"
+          },
+          "[\"google_play_app_id\", \"GCash Pera Outlet Plus\"]": {
+            "bounty": false,
+            "identifier": "GCash Pera Outlet Plus",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"GCash PocketPay\"]": {
+            "bounty": false,
+            "identifier": "GCash PocketPay",
+            "type": "google_play_app_id"
+          },
+          "[\"google_play_app_id\", \"GCash\"]": {
+            "bounty": false,
+            "identifier": "GCash",
+            "type": "google_play_app_id"
+          },
+          "[\"url\", \"fuselending.com\"]": {
+            "bounty": false,
+            "identifier": "fuselending.com",
+            "type": "url"
+          },
+          "[\"url\", \"gcash.com\"]": {
+            "bounty": false,
+            "identifier": "gcash.com",
+            "type": "url"
+          },
+          "[\"url\", \"mynt.com.ph\"]": {
+            "bounty": false,
+            "identifier": "mynt.com.ph",
+            "type": "url"
+          },
+          "[\"url\", \"mynt.xyz\"]": {
+            "bounty": false,
+            "identifier": "mynt.xyz",
+            "type": "url"
+          }
+        },
+        "name": "GCash Vulnerability Disclosure",
+        "url": "https://hackerone.com/gcash_vdp"
       },
       "https://hackerone.com/getyourguide_vdp": {
         "assets": {
