@@ -33022,6 +33022,66 @@
             "identifier": "com.x8bit.bitwarden",
             "type": "google_play_app_id"
           },
+          "[\"other\", \"Bitwarden Browser Extension\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Browser Extension",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden CLI\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden CLI",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Desktop\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Desktop",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Directory Connector\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Directory Connector",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Key Connector\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Key Connector",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden MCP Server\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden MCP Server",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Secrets Manager - CLI (bws)\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Secrets Manager - CLI (bws)",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Secrets Manager - Integrations\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Secrets Manager - Integrations",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Secrets Manager - SDKs\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Secrets Manager - SDKs",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Self-Host\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Self-Host",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Server\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Server",
+            "type": "other"
+          },
+          "[\"other\", \"Bitwarden Splunk App\"]": {
+            "bounty": false,
+            "identifier": "Bitwarden Splunk App",
+            "type": "other"
+          },
           "[\"other\", \"https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/\"]": {
             "bounty": false,
             "identifier": "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
@@ -33095,6 +33155,51 @@
           "[\"url\", \"help.bitwarden.com\"]": {
             "bounty": false,
             "identifier": "help.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://community.bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://community.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://contributing.bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://contributing.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://help.bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://help.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://passkeys.directory\"]": {
+            "bounty": false,
+            "identifier": "https://passkeys.directory",
+            "type": "url"
+          },
+          "[\"url\", \"https://scim.bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://scim.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://send.bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://send.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://sso.bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://sso.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://vault.bitwarden.com\"]": {
+            "bounty": false,
+            "identifier": "https://vault.bitwarden.com",
             "type": "url"
           },
           "[\"url\", \"identity.bitwarden.com\"]": {
@@ -195945,6 +196050,11 @@
             "identifier": "api-us-devl-e00.deere.com",
             "type": "url"
           },
+          "[\"url\", \"api-us-prod-e00.deere.com\"]": {
+            "bounty": false,
+            "identifier": "api-us-prod-e00.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"api.agrisync.com\"]": {
             "bounty": false,
             "identifier": "api.agrisync.com",
@@ -195983,6 +196093,11 @@
           "[\"url\", \"api.sentera.com\"]": {
             "bounty": false,
             "identifier": "api.sentera.com",
+            "type": "url"
+          },
+          "[\"url\", \"api.tartarus.prod.mesa.brtws.com\"]": {
+            "bounty": false,
+            "identifier": "api.tartarus.prod.mesa.brtws.com",
             "type": "url"
           },
           "[\"url\", \"apidev.sentera.com\"]": {
@@ -205450,6 +205565,21 @@
             "identifier": "org.hartfordhealthcare.hhc247",
             "type": "google_play_app_id"
           },
+          "[\"url\", \"patientgpt.pennmedicine.k-test.connect-visit.com\"]": {
+            "bounty": true,
+            "identifier": "patientgpt.pennmedicine.k-test.connect-visit.com",
+            "type": "url"
+          },
+          "[\"url\", \"pennmedicine.k-test.connect-visit.com\"]": {
+            "bounty": true,
+            "identifier": "pennmedicine.k-test.connect-visit.com",
+            "type": "url"
+          },
+          "[\"wildcard\", \"*.atlantichealthvirtualcare.org\"]": {
+            "bounty": true,
+            "identifier": "*.atlantichealthvirtualcare.org",
+            "type": "wildcard"
+          },
           "[\"wildcard\", \"*.csconnect.org\"]": {
             "bounty": true,
             "identifier": "*.csconnect.org",
@@ -205493,6 +205623,11 @@
           "[\"wildcard\", \"*.primarycareondemand.mayoclinic.org\"]": {
             "bounty": true,
             "identifier": "*.primarycareondemand.mayoclinic.org",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.uvahealthpcod.org\"]": {
+            "bounty": true,
+            "identifier": "*.uvahealthpcod.org",
             "type": "wildcard"
           },
           "[\"wildcard\", \"https://*.khealth.com\"]": {
