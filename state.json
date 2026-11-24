@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-23",
+  "last_checked_date": "2026-11-24",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -112753,6 +112753,11 @@
             "identifier": "abcspotdepot.com",
             "type": "url"
           },
+          "[\"url\", \"debut.disney.com\"]": {
+            "bounty": false,
+            "identifier": "debut.disney.com",
+            "type": "url"
+          },
           "[\"url\", \"disneyauditions.com\"]": {
             "bounty": false,
             "identifier": "disneyauditions.com",
@@ -115877,6 +115882,11 @@
           "[\"wildcard\", \"*.certificadoboavista.com.br\"]": {
             "bounty": false,
             "identifier": "*.certificadoboavista.com.br",
+            "type": "wildcard"
+          },
+          "[\"wildcard\", \"*.creditapps.com.au\"]": {
+            "bounty": false,
+            "identifier": "*.creditapps.com.au",
             "type": "wildcard"
           },
           "[\"wildcard\", \"*.decisionpoint3.com\"]": {
@@ -197145,6 +197155,11 @@
             "identifier": "dealers.waratah.net",
             "type": "url"
           },
+          "[\"url\", \"dealertools.deere.com\"]": {
+            "bounty": false,
+            "identifier": "dealertools.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"debinst.kleemann.info\"]": {
             "bounty": false,
             "identifier": "debinst.kleemann.info",
@@ -199115,6 +199130,11 @@
             "identifier": "jdquote2.deere.com",
             "type": "url"
           },
+          "[\"url\", \"jdsapqhr.deere.com\"]": {
+            "bounty": false,
+            "identifier": "jdsapqhr.deere.com",
+            "type": "url"
+          },
           "[\"url\", \"jdscms.deere.com\"]": {
             "bounty": false,
             "identifier": "jdscms.deere.com",
@@ -200193,6 +200213,11 @@
           "[\"url\", \"mstage.tal.deere.com\"]": {
             "bounty": false,
             "identifier": "mstage.tal.deere.com",
+            "type": "url"
+          },
+          "[\"url\", \"mtg2doc-support-tool.deere.com\"]": {
+            "bounty": false,
+            "identifier": "mtg2doc-support-tool.deere.com",
             "type": "url"
           },
           "[\"url\", \"mtx-dev.wirtgen-group.com\"]": {
@@ -229964,6 +229989,11 @@
             "identifier": "sipvs-ca.ccid.neustar.biz",
             "type": "url"
           },
+          "[\"url\", \"smim.sontiq.com\"]": {
+            "bounty": false,
+            "identifier": "smim.sontiq.com",
+            "type": "url"
+          },
           "[\"url\", \"smtp-test.truoptik.com\"]": {
             "bounty": false,
             "identifier": "smtp-test.truoptik.com",
@@ -232881,6 +232911,11 @@
           "[\"url\", \"https://www.visa.com.ua/\"]": {
             "bounty": true,
             "identifier": "https://www.visa.com.ua/",
+            "type": "url"
+          },
+          "[\"url\", \"lac-visa-payments-day.visa.com\"]": {
+            "bounty": true,
+            "identifier": "lac-visa-payments-day.visa.com",
             "type": "url"
           },
           "[\"url\", \"my.visa.fr\"]": {
