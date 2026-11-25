@@ -9352,6 +9352,11 @@
             "identifier": "https://nubank.com.mx",
             "type": "other"
           },
+          "[\"website\", \"*nubank.world\"]": {
+            "bounty": null,
+            "identifier": "*nubank.world",
+            "type": "website"
+          },
           "[\"website\", \"https://www.nuinvest.com.br/\"]": {
             "bounty": null,
             "identifier": "https://www.nuinvest.com.br/",
@@ -218769,6 +218774,37 @@
         },
         "name": "Nominet",
         "url": "https://hackerone.com/nominet"
+      },
+      "https://hackerone.com/northerntechhq": {
+        "assets": {
+          "[\"downloadable_executables\", \"CFEngine Enterprise\"]": {
+            "bounty": true,
+            "identifier": "CFEngine Enterprise",
+            "type": "downloadable_executables"
+          },
+          "[\"source_code\", \"https://github.com/cfengine/core\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/cfengine/core",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/mendersoftware/mender\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/mendersoftware/mender",
+            "type": "source_code"
+          },
+          "[\"source_code\", \"https://github.com/mendersoftware/mender-server\"]": {
+            "bounty": true,
+            "identifier": "https://github.com/mendersoftware/mender-server",
+            "type": "source_code"
+          },
+          "[\"url\", \"staging.hosted.mender.io\"]": {
+            "bounty": true,
+            "identifier": "staging.hosted.mender.io",
+            "type": "url"
+          }
+        },
+        "name": "Northern.tech",
+        "url": "https://hackerone.com/northerntechhq"
       },
       "https://hackerone.com/notion": {
         "assets": {
