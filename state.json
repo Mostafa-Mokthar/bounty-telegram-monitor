@@ -1,5 +1,5 @@
 {
-  "last_checked_date": "2026-11-25",
+  "last_checked_date": "2026-11-26",
   "pending": [],
   "platforms": {
     "bugcrowd": {
@@ -33180,6 +33180,11 @@
           "[\"url\", \"https://help.bitwarden.com\"]": {
             "bounty": false,
             "identifier": "https://help.bitwarden.com",
+            "type": "url"
+          },
+          "[\"url\", \"https://passkeyindex.io/\"]": {
+            "bounty": false,
+            "identifier": "https://passkeyindex.io/",
             "type": "url"
           },
           "[\"url\", \"https://passkeys.directory\"]": {
@@ -203133,6 +203138,11 @@
           "[\"url\", \"vectorstaging2.sentera.com\"]": {
             "bounty": false,
             "identifier": "vectorstaging2.sentera.com",
+            "type": "url"
+          },
+          "[\"url\", \"verifyidentity.deere.com\"]": {
+            "bounty": false,
+            "identifier": "verifyidentity.deere.com",
             "type": "url"
           },
           "[\"url\", \"vhb.agrisync.com\"]": {
